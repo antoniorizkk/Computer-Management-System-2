@@ -1,2 +1,2 @@
 # Computer-Management-System-2
-Java SWING, Desktop Application
+Computer Management System Project In this project, I developed a comprehensive computer management system using Java and Java Swing for the user interface, backed by an Oracle 11g database. The application supports full CRUD operations, enabling both administrators and users to manage data effectively. The admin side allows for complete control over the system’s functionalities, while the user side provides a streamlined experience for data interaction. This project exemplifies my skills in creating secure, reliable, and user-friendly software solutions.
